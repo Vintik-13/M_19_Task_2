@@ -1,0 +1,11 @@
+Windows 10 is designed to deliver updates for the supported lifetime of the device.
+Two types of updates may be provided: quality updates and feature updates. Quality
+updates include both security and non-security updates and are typically targeted
+to be released once a month. Feature updates include quality updates as well as add
+new features to Windows 10 and are typically provided twice a year. Ensuring that
+your device receives these updates and is kept up-to-date is important for your device
+security. Windows 10 periodically checks for updates so you don’t have to. When an
+update is available – and if sufficient disk space is available on your device – it
+will be automatically installed. So that Windows 10 continues to stay updated, it’s
+important to ensure your device has sufficient available space. See additional
+applicable details in the following notes.
